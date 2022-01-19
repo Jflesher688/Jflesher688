@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jasmine Flesher!
+- 👋 Hi, I’m Jasmine!
 - 👀 I’m interested in networking and collaborating with Developers, Programmers, Coders who are interested in new professional opportunities...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to source and outreach with GitHub. What's your tips and tricks?
+- 💞️ I’m looking to collaborate with you on the next step in your career!
 - 📫 Please to reach me via email: jflesher@integrisource.net or at my LinkedIn page: https://www.linkedin.com/in/jpflesher/
 
 <!---
